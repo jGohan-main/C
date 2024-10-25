@@ -10,6 +10,6 @@ C is a powerful, procedural programming language developed by Dennis Ritchie in 
 - **Device drivers**: Software that controls hardware components, such as printers, keyboards, and network devices.
 - **Embedded systems**: Programming for devices with dedicated functions, such as routers, washing machines, or microcontrollers.
 
-### Why is C used for System-Level Programming?
+# Why is C used for System-Level Programming?
 
 C's ability to manipulate memory directly, its minimal runtime, and its efficient execution make it well-suited for system-level programming.

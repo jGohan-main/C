@@ -2,7 +2,7 @@
 
 C is a powerful, procedural programming language developed by Dennis Ritchie in 1972. It is known for its performance, portability, and low-level memory access, making it ideal for **system-level programming**.
 
-## What is System-Level Programming?
+# What is System-Level Programming?
 
 **System-level programming** involves writing software that interacts directly with the hardware and core operating system components. Unlike high-level programming that focuses on user applications, system-level programming deals with:
 
